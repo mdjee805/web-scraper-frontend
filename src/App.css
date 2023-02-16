@@ -1,0 +1,36 @@
+.App {
+  background-color: #2f5e85;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 20px;
+}
+
+.title{
+  background-color: #4f2bbb;
+  width: stretch;
+}
+
+h2, h3, h4, h5{
+  padding-left: 40px;
+  color: #03001C;
+}
+
+table{
+  border: 4px solid black;
+  margin-top: 40px;
+}
+
+th, td{
+  padding: 8px;
+  border: 1px solid black;
+  background-color: darkgrey;
+}
+
+.link {
+  color: #61dafb;
+}
